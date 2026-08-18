@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+
+**/bin/
+**/obj/
+
+*.user
+*.suo
+
+.env
+
+appsettings.Development.json
+node_modules/

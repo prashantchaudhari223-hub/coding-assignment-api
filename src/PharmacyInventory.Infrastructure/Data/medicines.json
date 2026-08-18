@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "6f9619ff-8b86-d011-b42d-00cf4fc964ff",
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Store below 25°C",
+    "ExpiryDate": "2027-06-15T00:00:00",
+    "Quantity": 120,
+    "Price": 2.50,
+    "Brand": "Calpol"
+  },
+  {
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "FullName": "Amoxicillin 250mg",
+    "Notes": "Antibiotic - prescription required",
+    "ExpiryDate": "2026-09-01T00:00:00",
+    "Quantity": 8,
+    "Price": 5.75,
+    "Brand": "Novamox"
+  },
+  {
+    "Id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+    "FullName": "Cetirizine 10mg",
+    "Notes": "Antihistamine",
+    "ExpiryDate": "2026-08-30T00:00:00",
+    "Quantity": 45,
+    "Price": 1.20,
+    "Brand": "Zyrtec"
+  },
+  {
+    "Id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+    "FullName": "Ibuprofen 200mg",
+    "Notes": "NSAID pain relief",
+    "ExpiryDate": "2028-01-10T00:00:00",
+    "Quantity": 3,
+    "Price": 3.10,
+    "Brand": "Brufen"
+  }
+]
